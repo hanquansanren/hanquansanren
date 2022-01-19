@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+ My name is Weiguang Zhang, and I am currently a postgraduate student at XJTLU.
 <!--
 **hanquansanren/hanquansanren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Repo Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=totoroyyb&show_icons=true&theme=tokyonight)
+
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=totoroyyb&layout=compact)
