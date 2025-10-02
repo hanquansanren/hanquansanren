@@ -1,5 +1,6 @@
 ### Hi guys 👋
- My name is anonymity, <!-- and I am currently a PH.D. student at XJTLU(Xi’an Jiaotong-liverpool University) and UoL(University of Liverpool). -->
+ My name is Weiguang Zhang, and I am currently a PH.D. student at XJTLU(Xi’an Jiaotong-liverpool University) and UoL(University of Liverpool)
+ <!-- and I am currently a PH.D. student at XJTLU(Xi’an Jiaotong-liverpool University) and UoL(University of Liverpool). -->
  
  My main research interests are photographed document image processing, document analysis, document recognition, OCR, document intelligence, etc
  
