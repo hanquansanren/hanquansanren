@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 -->
 
 ## Repo Stats
-![GitHub Card](https://githubcard.com/hanquansanren.svg)
-[![hanquansanren's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanquansanren)](https://github.com/hanquansanren/github-readme-stats)
+![GitHub Card]([https://githubcard.com/hanquansanren.svg](https://githubcard.com/hanquansanren.svg?d=ORHqrAv_))
+
+ <!--[![hanquansanren's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanquansanren)](https://github.com/hanquansanren/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanquansanren&show_icons=true&theme=tokyonight)
 
-![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hanquansanren&layout=compact)
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hanquansanren&layout=compact)-->
