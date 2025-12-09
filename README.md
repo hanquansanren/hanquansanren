@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## Repo Stats
 
 ![GitHub Card](https://githubcard.com/hanquansanren.svg?d=ORHqrAv_)
+![Repo Card](https://githubcard.com/hanquansanren/DvD.svg)
  <!--[![hanquansanren's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanquansanren)](https://github.com/hanquansanren/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanquansanren&show_icons=true&theme=tokyonight)
 
