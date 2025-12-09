@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## Repo Stats
-
+[![hanquansanren's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanquansanren)](https://github.com/hanquansanren/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanquansanren&show_icons=true&theme=tokyonight)
 
 ![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hanquansanren&layout=compact)
